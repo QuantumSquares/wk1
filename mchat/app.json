@@ -1,0 +1,17 @@
+{
+  "name": "Kovid19Helpline",
+  "displayName": "Kovid19Helpline",
+  "expo": {
+    "name": "Kovid19Helpline",
+    "slug": "Kovid19Helpline",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
